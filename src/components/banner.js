@@ -14,7 +14,11 @@ const Banner = () => {
       <div className="w-1/2">
         <p>
           This is a template Figma file, turned into code using Anima. Learn
-          more at AnimaApp.com
+          more at AnimaApp.com This is a template Figma file, turned into code
+          using Anima. Learn more at AnimaApp.com This is a template Figma file,
+          turned into code using Anima. Learn more at AnimaApp.com This is a
+          template Figma file, turned into code using Anima. Learn more at
+          AnimaApp.com
         </p>
       </div>
     </section>
